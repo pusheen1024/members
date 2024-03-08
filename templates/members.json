@@ -1,0 +1,6 @@
+[{"name": "Ридли", "surname": "Скотт", "photo": "static/img/scott.jpg", "professions": ["капитан корабля"]},
+ {"name": "Энди", "surname": "Уир", "photo": "static/img/wir.jpg", "professions": ["астрогеолог", "инженер по радиационной защите"]},
+ {"name": "Марк", "surname": "Уотни", "photo": "static/img/watny.jpg", "professions": ["штурман марсохода"]},
+ {"name": "Венката", "surname": "Капур", "photo": "static/img/kapur.jpg", "professions": ["кибер-инженер", "программист"]},
+ {"name": "Тедди", "surname": "Сандерс", "photo": "static/img/sanders.jpg", "professions": ["врач", "экзобиолог"]},
+ {"name": "Шон", "surname": "Бин", "photo": "static/img/bin.jpg", "professions": ["климатолог", "гляциолог"]}]

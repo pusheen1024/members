@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+{% set information = members|random %}
+<div align="center">
+<div>
+<h2>{{ information["name"] }} {{ information["surname"] }}</h2>
+</div>
+<div>
+<img width="300px" src={{ information["photo"] }} alt="Фото члена экипажа">
+</div>
+<div>
+<p>{{ ", ".join(information["professions"]|sort) }}
+</div>
+</div>
+{% endblock %}
